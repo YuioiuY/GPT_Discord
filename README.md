@@ -10,7 +10,7 @@ The command returns a message informing the user which commands the bot is respo
 
 ![alt text](https://github.com/YuioiuY/GPT_Discord/blob/main/resgit/info.png)
 
-### !get + [request]
+### !gpt + [request]
 
 This command allows you to access GPTChat version 3.5.
 
